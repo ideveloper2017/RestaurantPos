@@ -24,5 +24,9 @@
     <orderEntry type="library" name="Maven: org.pushingpixels:substance:7.1.00" level="project" />
     <orderEntry type="library" name="Maven: com.formdev:flatlaf:1.6.5" level="project" />
     <orderEntry type="library" name="Maven: com.formdev:flatlaf-intellij-themes:2.0.1" level="project" />
+    <orderEntry type="library" name="Maven: com.dalsemi.onewire:OneWireAPI:0.1" level="project" />
+    <orderEntry type="library" name="Maven: joda-time:joda-time:2.9.7" level="project" />
+    <orderEntry type="library" name="Maven: de.sciss:weblaf:1.2.9" level="project" />
+    <orderEntry type="library" name="Maven: org.swinglabs:swing-layout:1.0.3" level="project" />
   </component>
 </module>
