@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="template.Ticket.A4_Beta">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/classes/com/unicenta/pos/templates/template.Ticket.A4_Beta.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

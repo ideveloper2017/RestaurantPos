@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Jul 15 01:12:48 UZT 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0190-b2e0-643d-000019001e40 
+on database directory /Users/ideveloper/.unicenta/unicentaopos-database with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2c13da15 
+Loaded from file:/Users/ideveloper/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Azul Systems, Inc.
+java.runtime.version=11.0.23+9-LTS
+user.dir=/Volumes/DATAHDD/JavaProjects/unicenta-opos-5.0
+os.name=Mac OS X
+os.arch=x86_64
+os.version=15.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
